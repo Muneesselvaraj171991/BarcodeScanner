@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Barcode</string>
+    <string name="home">Home</string>
+    <string name="search_icon">Search</string>
+    <string name="barcode_icon">Barcode</string>
+    <string name= "popular_items">Popular Items</string>
+    <string name="view_all">View All</string>
+    <string name="item_Image">ItemImage</string>
+    <string name="icon_AddImage">add_Icon</string>
+    <string name="barcode_scan">Barcode Scan</string>
+    <string name="canel">cancel</string>
+    <string name="to_cart">To cart</string>
+    <string name="flash_light">flash_light</string>
+    <string name="arrowIcon">arrowIcon</string>
+    <string name="aim_camera">Aim the camera\nat a barcode\nand start scanning</string>
+    <string name="scan_search">Scan Search</string>
+    <string name="camera_Permission_denied">Camera permission is denied</string>
+    <string name="custom_snackbar">Custom Snackbar</string>
+    <string name="success_icon">success_icon</string>
+
+</resources>
